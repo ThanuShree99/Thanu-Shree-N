@@ -9,10 +9,12 @@
 ## Projects
 ### Smart Lighting System
 ESP32-based adaptive lighting using LDR and PIR sensors — adjusts LED brightness automatically based on ambient light and motion detection.
-ESP32 IoT Embedded C PWM
+
+`ESP32` `IoT` `Embedded C` `PWM`
 ### Smart Pill Dispenser
 Arduino-powered medication dispenser with RTC scheduling and servo motor control — ensures timely and accurate pill dispensing.
-Arduino Embedded C RTC Servo
+
+`Arduino` `Embedded C` `RTC` `Servo`
 ---
 ## Achievements
 | Award | Event | Institution |
