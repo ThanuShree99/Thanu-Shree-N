@@ -1,5 +1,6 @@
 # Hi, I'm Thanu Shree N 👋
 **ECE student · Embedded systems enthusiast · Multi-hackathon award winner**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
