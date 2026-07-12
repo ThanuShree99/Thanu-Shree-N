@@ -2,8 +2,8 @@
 
 💎 ECE Student  
 ⚡ Embedded Systems Developer  
-💻 Firmware Engineer  
-🏆 National Hackathon Winner
+💻 Software Engineer  
+🏆 Hackathon Winner
 
 ---
 
