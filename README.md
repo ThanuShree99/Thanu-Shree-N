@@ -1,122 +1,111 @@
-# 👋 Thanu Shree N
+# Hi, I'm Thanu Shree N 👋
 
-**Embedded Systems Engineer | ECE Final-Year Student**
-
-> Building reliable, efficient systems from hardware to firmware. Hands-on experience in embedded development, real-time systems, and aerospace testing. Passionate about solving complex engineering problems.
+💎 ECE Student  
+⚡ Embedded Systems Developer  
+💻 Firmware Engineer  
+🏆 National Hackathon Winner
 
 ---
 
-## ⚡ Technical Arsenal
+## 🛠️ Skills
 
-| Category | Skills |
-|----------|--------|
-| **Languages** | C • Embedded C • Python • Java |
-| **Development** | STM32CubeIDE • GitHub • Unity Test Framework |
-| **Platforms** | Arduino • ESP32 |
-| **Hardware** | Sensor Interfacing • Actuators • Circuit Design |
+`C` `Embedded C` `Python` `Java` `STM32CubeIDE` `GitHub` `Arduino` `ESP32` `Sensor Interfacing` `Circuit Design`
 
 ---
 
 ## 💼 Professional Experience
 
-### 🚀 Harpy Aerospace Private Limited
+### Harpy Aerospace Private Limited
 **Embedded Engineer Intern** | May 2026 - July 2026
 
-Firmware development for Triad Spectroscopy sensor platform
-- Developed embedded firmware using **Embedded C** and **STM32CubeIDE**
+- Firmware development for Triad Spectroscopy sensor using **Embedded C** and **STM32CubeIDE**
 - Debugged and validated firmware modules for sensor functionality
-- Wrote and executed comprehensive unit tests using **Unity Test Framework**
-- Collaborated across firmware testing, code analysis, and technical documentation
+- Wrote and executed unit tests using **Unity Test Framework**
+- Collaborated on firmware testing and technical documentation
 
-### 🏭 Indian Rare Earths Limited (IREL)
+### Indian Rare Earths Limited (IREL)
 **Internship** | November 2025 - December 2025
 
-Industrial automation and process control systems
-- Analyzed industrial process workflows for heavy mineral separation
-- Worked with PLCs, PID controllers, VFDs, and instrumentation systems
-- Gained hands-on exposure to real-world process control and measurement systems
+- Industrial process automation and heavy mineral separation workflows
+- Analyzed PLCs, PID controllers, and VFDs in process control
+- Real-world exposure to industrial measurement systems
 
-### 🛰️ ISRO Propulsion Complex (IPRC)
+### ISRO Propulsion Complex (IPRC)
 **Inplant Trainee** | December 2024 - January 2025
 
-Mission-critical propulsion systems testing
-- Studied engine testing procedures for Vikas Engine, PSLV, and LVM3 platforms
-- Analyzed PLC automation and safety interlock systems in high-reliability environments
-- Monitored real-time sensor instrumentation and data acquisition systems
+- Liquid propulsion engine testing (Vikas Engine, PSLV, LVM3)
+- PLC automation and safety interlock systems analysis
+- Real-time sensor instrumentation and data acquisition
 
 ---
 
-## 🛠️ Featured Projects
+## 🚀 Featured Projects
 
-### 🧠 Career Compass — AI-Powered Career Guidance Platform
-Personalized career recommendations engine integrating AI and user profiling
-- **Frontend:** HTML with structured user interface
-- **Backend:** Server-side processing for request handling
-- **AI Integration:** External API for intelligent response generation
-- **Reliability:** Comprehensive validation, error handling, and fallback mechanisms
+### 🧠 Career Compass | AI-Powered Career Guidance Platform
+Personalized career recommendations engine integrating AI
+- **Tech:** HTML, Server-side Backend, External API Integration
+- Request validation, error handling, and fallback logic
+- Modular software architecture
 
-### 💊 Smart Pill Dispenser — Embedded Systems Project
-Automated medication dispensing system with real-time scheduling
-- Designed control logic for accurate, four-cycle daily medication delivery
-- Integrated actuator control for reliable dispensing
-- Real-time user notifications for medication alerts
+### 💊 Smart Pill Dispenser | Embedded Systems
+Automated medication dispensing with real-time scheduling
+- **Tech:** Embedded C, Actuator Control, Scheduling Logic
+- Four-cycle daily medication delivery with user notifications
+- Real-time alert system for medication timing
 
-### 🏥 Thanu Medicals — Web Presence
-Professional pharmacy information website
-- Clean, semantic HTML structure for accessibility
-- User-friendly navigation for medicines and healthcare services
-- Optimized for readability and maintainability
+### 🏥 Thanu Medicals | Website
+Professional pharmacy information platform
+- **Tech:** Semantic HTML, User Interface Design
+- Clean navigation and organized content structure
+- Accessibility and maintainability optimized
 
 ---
 
 ## 🎓 Education
 
-### Velammal Engineering College
-**B.E Electronics & Communication Engineering** | 2023-2027  
-CGPA: 8.49
+**Velammal Engineering College** | 2023-2027  
+B.E Electronics & Communication Engineering | CGPA: 8.49
 
-### Pre-University
-- **HSC:** Bishop Remigius School - CBSE (2022-2023) | **86.2%**
-- **SSLC:** Adarsh Vidya Kendra (2020-2021) | **96.6%**
+**HSC:** Bishop Remigius School - CBSE (2022-2023) | 86.2%  
+**SSLC:** Adarsh Vidya Kendra (2020-2021) | 96.6%
 
 ---
 
-## 🏆 Achievements & Awards
+## 🏆 Achievements
 
-**🥇 National Level**
-- **Winners – Best Innovators** | National Level Hackathon 360° 3.0 (KPR Institute of Engineering & Technology)
-
-**🏅 Institutional & Multi-Institution**
-- **1st Place** — Paper Presentation: "Medusa: Stress Relieving Smart Garment"
-- **2nd Place** — Velammal Hackathon 2025
-- **3rd Place** — Shark Tank: Innovative Business Concept Pitch
-- **3rd Place** — Paper Presentation: "Paper Sage: Recyclable & Non-Recyclable Paper Separation"
-- **3rd Place** — Innovative Product Showcase
+| 🥇 Award | 🎯 Event |
+|----------|---------|
+| **National Winners** | Best Innovators – Hackathon 360° 3.0, KPR Institute of Technology |
+| **1st Place** | Paper Presentation at Velammal Insitute Of Technology |
+| **2nd Place** | Velammal Hackathon 2025 - Velammal Engineering College|
+| **3rd Place** | Shark Tank – Innovative Business Concept Pitch - Madras Institute Of Technology|
+| **3rd Place** | Paper Presentation at St Joshep Engineering College|
+| **3rd Place** | Innovative Product Showcase - Velammal Engineering College |
 
 ---
 
 ## 📜 Certifications
 
-✓ The Joy of Computing Using Python — **NPTEL**  
-✓ Sensors and Actuators — **NPTEL**  
-✓ Cryptography and Network Security — **NPTEL**
+✓ The Joy of Computing Using Python — NPTEL  
+✓ Sensors and Actuators — NPTEL  
+✓ Cryptography and Network Security — NPTEL
 
 ---
 
-## 🌐 Community & Leadership
+## 🌐 Community
 
 **Institution's Innovation Council** | Velammal Engineering College
-- Active participant in innovation challenges and idea pitching sessions
-- Engage in entrepreneurship workshops under Ministry of Education's IIC initiative
+- Active in innovation challenges and idea pitching
+- Entrepreneurship workshops under Ministry of Education's IIC
 
 ---
 
-## 📬 Connect With Me
+## 🔗 Connect
 
 📱 **Phone:** +91 9787590234  
 📧 **Email:** thanushree.nagarajan@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/thanushreen  
-💻 **GitHub:** https://github.com/ThanuShree99  
+💼 **LinkedIn:** www.linkedin.com/in/thanushreen  
+🐙 **GitHub:** https://github.com/ThanuShree99  
 📍 **Location:** Nagercoil, Tamil Nadu
 
 ---
