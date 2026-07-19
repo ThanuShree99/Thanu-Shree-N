@@ -41,11 +41,6 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 Career Compass | AI-Powered Career Guidance Platform
-Personalized career recommendations engine integrating AI
-- **Tech:** HTML, Server-side Backend, External API Integration
-- Request validation, error handling, and fallback logic
-- Modular software architecture
 
 ### 💊 Smart Pill Dispenser | Embedded Systems
 Automated medication dispensing with real-time scheduling
